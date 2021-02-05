@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Costa Brazil é mais Porto Seguro',
+    paragraph: 'A cidade de Porto Seguro é repleta de magia e alegria, desfrute'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Porque a Costa Brazil
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  20 anos de experiência
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Conheça um dos destinos mais procurados do Brasil com quem tem experiência e excelência no receptivo de formatura, com padrão internacional
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/features-split-image-01.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Porque Porto Seguro
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Cultura, belezas naturais...
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Rica em biodiversidade, cultura e historia, Porto Seguro irá te surpreender com a hospitalidade e carisma de seu povo, sua culinária deliciosa e suas belezas naturais, visitando praias e centros historicos tombados pela UNESCO
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/features-split-image-02.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Destino mais procurado por formandos
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  O que há de melhor em um só lugar
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Momentos são o melhor presente. Fazemos sua formatura entrar pra historia com as melhores atividades, excursões, festas, inclusive à beira mar e temáticas
                   </p>
               </div>
               <div className={
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/features-split-image-03.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />

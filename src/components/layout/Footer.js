@@ -45,9 +45,8 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Made by <a href="https://cruip.com">Cruip</a>. All right reserved</div>
+            <div className="footer-copyright">Aveninda 22 de Abril, Centro, Porto Seguro - Bahia. <div>Telefone: <a href="tel:+557332682113">+557332682113</a></div><div>Email:<a href="mailto:sac@costabrazil.tur.br"> sac@costabrazil.tur.br</a></div>Desenvolvido por <a href="https://reisebertini.netlify.app">Reis e Bertini</a>. Copyright © 2020 Costa Brazil Receptivo</div><div></div></div>
           </div>
-        </div>
       </div>
     </footer>
   );
