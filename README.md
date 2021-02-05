@@ -1,4 +1,4 @@
-### Costa Brazil - React App
+# Costa Brazil - React App
 ## Usage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
